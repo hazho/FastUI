@@ -14,7 +14,7 @@ email-validator==2.1.0.post1
     # via pydantic
 fastapi==0.109.2
     # via fastui (src/python-fastui/pyproject.toml)
-idna==3.6
+idna==3.7
     # via
     #   anyio
     #   email-validator
